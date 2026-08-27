@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.0/MeteoScope-1.8.0.bin",
-  "sha256": "5d82c586fd239b4065586639abfd755b814202a9119d68d6c397840a0652f95c",
-  "size": 3912944,
-  "notes": "Première version compatible avec les mises à jour OTA GitHub Releases."
+  "version": "1.8.1",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.1/MeteoScope-1.8.1.bin",
+  "sha256": "0167a869ea420703c90a1a652e3cf01f515c2170dbc3620198af369a0943f9de",
+  "size": 3913136,
+  "notes": "Corrige le redraw du dashboard lors de la fermeture de l’écran de démarrage."
 }
