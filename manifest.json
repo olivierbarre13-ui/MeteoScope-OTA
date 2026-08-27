@@ -1,7 +1,7 @@
 {
-  "version": "1.8.10",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.10/MeteoScope-1.8.10.bin",
-  "sha256": "4e9a04e994e3ba96f336834473e3a2b01fa0aface3e5fe2b1f7368ce3b15e3fa",
-  "size": 3918000,
-  "notes": "Corrige le blocage avant téléchargement OTA en supprimant le rafraîchissement LVGL synchrone depuis la tâche Arduino. Conserve les flèches centrées et le vent sans angle en degrés."
+  "version": "1.8.11",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.11/MeteoScope-1.8.11.bin",
+  "sha256": "b25675047540af68ee7a57cb11b6f7b8314665263d54aa464581a2e1b5b5e25d",
+  "size": 3917888,
+  "notes": "Valide le parcours OTA statique depuis la 1.8.10 et simplifie l'écran de mise à jour en supprimant le texte technique sur le dépôt de téléchargement."
 }
