@@ -1,7 +1,7 @@
 {
-  "version": "1.8.6",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.6/MeteoScope-1.8.6.bin",
-  "sha256": "737cb0caa181424bf0ba9fec628660db18b6ef4cc2e8d7d083ba1cfd8dd9d192",
-  "size": 3916752,
-  "notes": "Corrige l’ordonnancement de la tâche OTA en PSRAM et inclut l’affichage local des vents."
+  "version": "1.8.7",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.7/MeteoScope-1.8.7.bin",
+  "sha256": "5fcd9028b04eb4130f65370f2b78343e479c43685d2c6295844bf1a054ead745",
+  "size": 3918512,
+  "notes": "OTA fiabilisée pour l'ESP32-S3 : téléchargement HTTPS en PSRAM, écriture Flash depuis la RAM interne et suivi textuel du pourcentage. Les notes de version sont désormais affichées avant l'installation."
 }
