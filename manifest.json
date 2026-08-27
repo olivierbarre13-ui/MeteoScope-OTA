@@ -1,7 +1,7 @@
 {
-  "version": "1.8.8",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.8/MeteoScope-1.8.8.bin",
-  "sha256": "cff579d7bbfd0534b455a7666846ed3e7a48e08f1e45cffb491a1e7d8153b330",
-  "size": 3918224,
-  "notes": "Stabilise l'affichage pendant l'OTA : écran entièrement statique, progression sur le port série, tactile suspendu pendant l'installation et manifeste sans cache."
+  "version": "1.8.9",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.9/MeteoScope-1.8.9.bin",
+  "sha256": "e99f99543a6158d3976bc602cb8124d021879cf86781bb5205db34449303fbd2",
+  "size": 3918000,
+  "notes": "Supprime les textes associés aux tendances, centre les flèches dans chaque indicateur et retire l'angle en degrés de la direction du vent local."
 }
