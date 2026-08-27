@@ -1,7 +1,7 @@
 {
-  "version": "1.8.3",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.3/MeteoScope-1.8.3.bin",
-  "sha256": "3a1ca34d0ddc4e0087cc4d7851a55a4988816288f7e7af23e038f5ff9b12e01f",
-  "size": 3914656,
-  "notes": "Affiche le nom local et la direction du vent dans la zone des Bouches-du-Rhône."
+  "version": "1.8.5",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.5/MeteoScope-1.8.5.bin",
+  "sha256": "37b6f46bd90b1fac78efaa0cbc6b0d72b6d8a8bfce851713dc9ed9ee6427241e",
+  "size": 3916544,
+  "notes": "Valide l’installation OTA avec pile dédiée en PSRAM et inclut l’affichage local des vents."
 }
