@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "edition_id": "fr-ile-de-france-2026-08-28",
+  "generated_at": "2026-08-28T10:04:37.328925Z",
+  "valid_until": "2026-08-30T10:04:37.328925Z",
+  "locale": "fr-FR",
+  "country": "France",
+  "region": "Île-de-France",
+  "items": [
+    {
+      "scope": "world",
+      "available": true,
+      "category": "health",
+      "title": "Hunting down the last cases of sleeping sickness",
+      "summary": "Sleeping sickness once killed tens of thousands of people every year. Now, in the Democratic Republic of the Congo, EU-backed researchers are testing a simpler way to find and treat the last remaining cases and eliminate the disease for good.",
+      "source": "Horizon Magazine",
+      "published_at": "2026-08-25T11:19:19Z",
+      "url": "https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/hunting-down-last-cases-sleeping-sickness",
+      "confidence": 0.95,
+      "selection_method": "groq",
+      "selection_reason": "Positive concrete result: EU-backed researchers testing a simpler method to find and treat remaining cases of sleeping sickness, aiming to eliminate disease."
+    },
+    {
+      "scope": "country",
+      "available": true,
+      "category": "business",
+      "title": "La start-up française Pasqal, spécialisée dans l’informatique quantique…",
+      "summary": "L’entreprise a annoncé en parallèle sa fusion avec la société d’investissement Bleichroeder et la levée de 360 millions de dollars de trésorerie.",
+      "source": "Le Monde Sciences",
+      "published_at": "2026-08-28T00:06:38Z",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/28/la-start-up-francaise-pasqal-specialisee-dans-l-informatique-quantique-fait-son-entree-a-wall-street_6758637_3234.html",
+      "confidence": 0.95,
+      "selection_method": "groq",
+      "selection_reason": "Pasqal a concrètement levé 360 millions de dollars, un succès financier tangible."
+    },
+    {
+      "scope": "region",
+      "available": true,
+      "category": "Environnement",
+      "title": "Comment des champs en Seine-et-Marne font rouler les bus de banlieue avec…",
+      "summary": "Ce département concentre 46 des 63 sites de production de biométhane agricole en Île-de-France. IDFM mise beaucoup sur ce gaz non fossile et renouvelable et prévoit de convertir 70 % des bus et des cars en grande couronne.",
+      "source": "Le Parisien Seine-et-Marne",
+      "published_at": "2026-08-26T12:00:00Z",
+      "url": "https://www.leparisien.fr/seine-et-marne-77/comment-des-champs-en-seine-et-marne-font-rouler-les-bus-de-banlieue-avec-des-cereales-et-du-petit-lait-26-08-2026-TMYR645KMBCOXL65YMRQMVLXIA.php",
+      "confidence": 0.9,
+      "selection_method": "groq",
+      "selection_reason": "Positive concrete result: conversion of 70 % of buses to biomethane, a renewable energy source."
+    }
+  ]
+}
