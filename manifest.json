@@ -1,7 +1,7 @@
 {
-  "version": "1.8.12",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.12/MeteoScope-1.8.12.bin",
-  "sha256": "2983ea03d1e41029fed80c563f41ba49d9b4324d98ab8f55f774b95b1db17a14",
-  "size": 3920128,
-  "notes": "Ajoute la suppression sécurisée des localités récentes avec confirmation. Coupe temporairement le rétroéclairage pendant l’installation OTA afin de masquer les instabilités graphiques, puis le restaure automatiquement en cas d’échec."
+  "version": "1.8.13",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.13/MeteoScope-1.8.13.bin",
+  "sha256": "a761fe053cbc607f9bed14b7b74ef012ff276b4d356be595736cea032a7bb64c",
+  "size": 3920240,
+  "notes": "Isole strictement l’installation OTA : l’écran reste volontairement éteint pendant le téléchargement et l’écriture Flash, puis MétéoScope redémarre automatiquement. Affiche les noms des localités récentes sur deux lignes centrées pour éviter leur troncature."
 }
