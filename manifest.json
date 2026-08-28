@@ -1,7 +1,7 @@
 {
-  "version": "1.8.14",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.14/MeteoScope-1.8.14.bin",
-  "sha256": "cf399ab0c81cb3517e62242cab27dee83169873b15a51313546f83a9b88487fc",
-  "size": 3920400,
-  "notes": "Centre verticalement les noms des localités récentes, qu’ils occupent une ou deux lignes. Structure l’écran Localisation avec deux encadrés distincts : sélection d’une localité récente et recherche d’une nouvelle localité."
+  "version": "1.8.15",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.15/MeteoScope-1.8.15.bin",
+  "sha256": "db391eba270cb87567404b3ec330bf20fb554d45ac25260d0fe09104f00d9215",
+  "size": 3925152,
+  "notes": "Ajoute le Journal des bonnes nouvelles à MeteoScope, avec trois actualités positives quotidiennes : monde, France et Île-de-France. Le journal est accessible depuis le pied de l’écran météo et son contenu est chargé depuis le service distant MeteoScope. Inclut également les améliorations de l’écran Localisation de la version 1.8.14."
 }
