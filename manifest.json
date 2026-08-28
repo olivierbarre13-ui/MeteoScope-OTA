@@ -1,7 +1,7 @@
 {
-  "version": "1.8.15",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.15/MeteoScope-1.8.15.bin",
-  "sha256": "db391eba270cb87567404b3ec330bf20fb554d45ac25260d0fe09104f00d9215",
-  "size": 3925152,
-  "notes": "Ajoute le Journal des bonnes nouvelles à MeteoScope, avec trois actualités positives quotidiennes : monde, France et Île-de-France. Le journal est accessible depuis le pied de l’écran météo et son contenu est chargé depuis le service distant MeteoScope. Inclut également les améliorations de l’écran Localisation de la version 1.8.14."
+  "version": "1.8.16",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.16/MeteoScope-1.8.16.bin",
+  "sha256": "91406ab8ca66d27dd4f11577bf86e0408a089376688c56886276499b95e75df2",
+  "size": 3930560,
+  "notes": "Ajoute un pictogramme Journal cliquable dans le footer. Le premier accès quotidien transmet la localité sélectionnée au service alwaysdata, qui agrège uniquement des sources francophones et génère l’édition via Groq. Le résultat est mis en cache par jour et par localisation sur le serveur ainsi que dans la mémoire persistante de MeteoScope. La génération asynchrone est suivie automatiquement jusqu’à disponibilité."
 }
