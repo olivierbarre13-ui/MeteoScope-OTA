@@ -1,7 +1,7 @@
 {
-  "version": "1.8.18",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.18/MeteoScope-1.8.18.bin",
-  "sha256": "aba276dcdb444655c82169e50ec09cb6e87eeeeb034f74aa2c3ec94e20a81a69",
-  "size": 3931296,
-  "notes": "Le Journal des bonnes nouvelles affiche désormais cinq actualités francophones issues de sources positives agrégées, sans filtre géographique ni appel à une IA. La navigation et le cache quotidien ont été adaptés au nouveau format."
+  "version": "1.8.19",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.19/MeteoScope-1.8.19.bin",
+  "sha256": "6ef4e0f4d379633d57423f882e6c9d4ad50f49e45188f4634e9e9878a42d7dc2",
+  "size": 3932336,
+  "notes": "Ajoute une lecture détaillée des bonnes nouvelles : touchez la carte pour afficher environ 700 caractères extraits de l'article source, puis touchez-la à nouveau pour revenir au résumé. Les flèches continuent de parcourir les cinq articles."
 }
