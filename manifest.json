@@ -1,7 +1,7 @@
 {
-  "version": "1.8.19",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.19/MeteoScope-1.8.19.bin",
-  "sha256": "6ef4e0f4d379633d57423f882e6c9d4ad50f49e45188f4634e9e9878a42d7dc2",
-  "size": 3932336,
-  "notes": "Ajoute une lecture détaillée des bonnes nouvelles : touchez la carte pour afficher environ 700 caractères extraits de l'article source, puis touchez-la à nouveau pour revenir au résumé. Les flèches continuent de parcourir les cinq articles."
+  "version": "1.8.20",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.20/MeteoScope-1.8.20.bin",
+  "sha256": "a2609367da843e3653891c823832392ebec224a6082ec3b79aadfce75a44242b",
+  "size": 3937456,
+  "notes": "Ajoute l’écran État du système avec diagnostic Wi-Fi, météo, journal, mémoire et temps de fonctionnement. Permet de relancer la météo et de redémarrer MétéoScope après confirmation, sans effacer les réglages. Une erreur météo temporaire déclenche désormais un nouvel essai automatique après 30 secondes."
 }
