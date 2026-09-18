@@ -1,7 +1,7 @@
 {
-  "version": "1.9.5",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.5/MeteoScope-1.9.5.bin",
-  "sha256": "c327f4f3d8b05a72d09684d6b75a7352cb26909cebcc55bc4644eecbae11c6f8",
-  "size": 3940832,
-  "notes": "Corrige le décalage vertical du journal en différant les appels météo et qualité de l'air tant qu'un écran secondaire est actif. Le redraw de sécurité cible désormais systématiquement l'écran réellement affiché."
+  "version": "1.9.6",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.6/MeteoScope-1.9.6.bin",
+  "sha256": "8aa331cb228a5417139b47df549d19b60355370e7d3339c17bdafb394f044792",
+  "size": 3941104,
+  "notes": "Corrige le décalage vertical lors de changements successifs de localité. Les écritures NVS sont maintenant masquées par le rétroéclairage puis suivies d'une resynchronisation RGB et de deux redraws complets de l'écran actif."
 }
