@@ -1,7 +1,7 @@
 {
-  "version": "1.8.27",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.27/MeteoScope-1.8.27.bin",
-  "sha256": "5294581c612a5b6515142083d75409f627251d0ab27e3ed595c456e6c3c24278",
-  "size": 3938224,
-  "notes": "Corrige le décalage vertical lors du chargement du journal après une séquence de navigation. Le rétroéclairage est masqué pendant l’accès TLS, puis le contrôleur RGB est resynchronisé avant un second redraw complet du journal."
+  "version": "1.9.0",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.0/MeteoScope-1.9.0.bin",
+  "sha256": "e3ef00fcf22e7e7af1993acc679517330d1d9beca193b88c9976004a69994be6",
+  "size": 3935984,
+  "notes": "Remplace la pression atmosphérique par une carte de qualité de l'air fondée sur l'indice européen CAMS via Open-Meteo. Affichage textuel et coloré sans valeur numérique, avec conservation de la dernière donnée connue si le service air est temporairement indisponible."
 }
