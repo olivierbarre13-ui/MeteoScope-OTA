@@ -1,7 +1,7 @@
 {
-  "version": "1.8.21",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.21/MeteoScope-1.8.21.bin",
-  "sha256": "4ef76bc7d6995922569a6b2689b7b10c2373243bc785819fb4bbcf75c77f5104",
-  "size": 3937600,
-  "notes": "Corrige le centrage vertical de la phrase quotidienne dans le bandeau inférieur. Renforce également la stabilisation du contrôleur RGB après une mise à jour OTA, tout en conservant l’écran État du système et le redémarrage sécurisé."
+  "version": "1.8.22",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.22/MeteoScope-1.8.22.bin",
+  "sha256": "50d9abdc018de004961ef9bff2cb69dd75acf42f4ea2c5d8d145911fe0f7f1a7",
+  "size": 3937712,
+  "notes": "Corrige le redémarrage lors de la séquence État du système → retour → Localité. La page Wi-Fi intermédiaire est désormais libérée dès l’ouverture du diagnostic et les nouveaux appuis sont brièvement bloqués pendant les suppressions LVGL différées."
 }
