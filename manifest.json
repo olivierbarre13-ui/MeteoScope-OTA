@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.0/MeteoScope-1.9.0.bin",
-  "sha256": "e3ef00fcf22e7e7af1993acc679517330d1d9beca193b88c9976004a69994be6",
-  "size": 3935984,
-  "notes": "Remplace la pression atmosphérique par une carte de qualité de l'air fondée sur l'indice européen CAMS via Open-Meteo. Affichage textuel et coloré sans valeur numérique, avec conservation de la dernière donnée connue si le service air est temporairement indisponible."
+  "version": "1.9.1",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.1/MeteoScope-1.9.1.bin",
+  "sha256": "5ecfb0f00fb99c28c777ba3ac8aea4a0ac8c3518a46b07bfee9f1a8b4f76a1da",
+  "size": 3936304,
+  "notes": "Corrige l'indisponibilité de la qualité de l'air en libérant les buffers météo avant le second appel HTTPS et en ajoutant un nouvel essai automatique."
 }
