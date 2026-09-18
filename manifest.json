@@ -1,7 +1,7 @@
 {
-  "version": "1.9.3",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.3/MeteoScope-1.9.3.bin",
-  "sha256": "61ad8c12abc5dc0224e4f5544f69d710db6e3afe42d5844a976c89c89e6830e2",
-  "size": 3940608,
-  "notes": "Améliore la carte qualité de l'air avec un pictogramme CO₂, nuage et maison adapté à la charte MétéoScope, ainsi qu'un curseur d'échelle plus grand et stylisé."
+  "version": "1.9.4",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.4/MeteoScope-1.9.4.bin",
+  "sha256": "10814955d045315daf6872f8ec804987e74d091b84ec90fd6425c84a03581e7d",
+  "size": 3940816,
+  "notes": "Corrige le décalage vertical du tableau de bord après les appels météo et qualité de l'air grâce à une resynchronisation RGB et un double redraw. Réaligne le pictogramme qualité de l'air avec les autres métriques et place son libellé à droite sur deux lignes."
 }
