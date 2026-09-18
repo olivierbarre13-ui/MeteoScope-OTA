@@ -1,7 +1,7 @@
 {
-  "version": "1.9.2",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.2/MeteoScope-1.9.2.bin",
-  "sha256": "fcfd8d3dd20c6ed3e7282308d3916e9991dc3d643144a7166f0c16a29cfa1fc8",
-  "size": 3935952,
-  "notes": "Corrige définitivement l'appel qualité de l'air en détruisant entièrement la connexion TLS météo avant d'ouvrir la connexion CAMS. Deux essais automatiques sont conservés."
+  "version": "1.9.3",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.3/MeteoScope-1.9.3.bin",
+  "sha256": "61ad8c12abc5dc0224e4f5544f69d710db6e3afe42d5844a976c89c89e6830e2",
+  "size": 3940608,
+  "notes": "Améliore la carte qualité de l'air avec un pictogramme CO₂, nuage et maison adapté à la charte MétéoScope, ainsi qu'un curseur d'échelle plus grand et stylisé."
 }
