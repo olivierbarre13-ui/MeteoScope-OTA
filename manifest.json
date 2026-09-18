@@ -1,7 +1,7 @@
 {
-  "version": "1.8.23",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.23/MeteoScope-1.8.23.bin",
-  "sha256": "a1611177f2341f99b598e62d07715a4cd551404bdcdf35bb2e93d841cacc5c9f",
-  "size": 3937872,
-  "notes": "Corrige le redémarrage immédiat lors de l’appui sur Retour depuis l’écran État du système. Les écrans système et Wi-Fi sont désormais détruits dans la boucle principale, après la fin complète du callback tactile et sous verrou LVGL."
+  "version": "1.8.24",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.24/MeteoScope-1.8.24.bin",
+  "sha256": "a7c5618d62958a2de4cfb6575b1c2924869360658115c62a2d8744573d79230c",
+  "size": 3937904,
+  "notes": "Rend le bouton Retour de l’écran État du système fiable sur le tactile GT911 en déclenchant la navigation dès l’appui, sans attendre un relâchement parfois perdu. Conserve le nettoyage LVGL sécurisé introduit en 1.8.23."
 }
