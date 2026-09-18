@@ -1,7 +1,7 @@
 {
-  "version": "1.8.26",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.26/MeteoScope-1.8.26.bin",
-  "sha256": "f26af921a2386e97192f9cd616b86c53561fef950b94713b1898009de1cf6369",
-  "size": 3938000,
-  "notes": "Restaure le fonctionnement tactile natif de l’écran État du système tel qu’il fonctionnait en 1.8.20. Seul le retour est différé par lv_async_call : après la fin du callback, LVGL revient au dashboard puis libère proprement les écrans système et Wi-Fi."
+  "version": "1.8.27",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.27/MeteoScope-1.8.27.bin",
+  "sha256": "5294581c612a5b6515142083d75409f627251d0ab27e3ed595c456e6c3c24278",
+  "size": 3938224,
+  "notes": "Corrige le décalage vertical lors du chargement du journal après une séquence de navigation. Le rétroéclairage est masqué pendant l’accès TLS, puis le contrôleur RGB est resynchronisé avant un second redraw complet du journal."
 }
