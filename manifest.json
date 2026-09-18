@@ -1,7 +1,7 @@
 {
-  "version": "1.8.20",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.20/MeteoScope-1.8.20.bin",
-  "sha256": "a2609367da843e3653891c823832392ebec224a6082ec3b79aadfce75a44242b",
-  "size": 3937456,
-  "notes": "Ajoute l’écran État du système avec diagnostic Wi-Fi, météo, journal, mémoire et temps de fonctionnement. Permet de relancer la météo et de redémarrer MétéoScope après confirmation, sans effacer les réglages. Une erreur météo temporaire déclenche désormais un nouvel essai automatique après 30 secondes."
+  "version": "1.8.21",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.8.21/MeteoScope-1.8.21.bin",
+  "sha256": "4ef76bc7d6995922569a6b2689b7b10c2373243bc785819fb4bbcf75c77f5104",
+  "size": 3937600,
+  "notes": "Corrige le centrage vertical de la phrase quotidienne dans le bandeau inférieur. Renforce également la stabilisation du contrôleur RGB après une mise à jour OTA, tout en conservant l’écran État du système et le redémarrage sécurisé."
 }
