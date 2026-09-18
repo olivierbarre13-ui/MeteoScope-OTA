@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.1/MeteoScope-1.9.1.bin",
-  "sha256": "5ecfb0f00fb99c28c777ba3ac8aea4a0ac8c3518a46b07bfee9f1a8b4f76a1da",
-  "size": 3936304,
-  "notes": "Corrige l'indisponibilité de la qualité de l'air en libérant les buffers météo avant le second appel HTTPS et en ajoutant un nouvel essai automatique."
+  "version": "1.9.2",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.2/MeteoScope-1.9.2.bin",
+  "sha256": "fcfd8d3dd20c6ed3e7282308d3916e9991dc3d643144a7166f0c16a29cfa1fc8",
+  "size": 3935952,
+  "notes": "Corrige définitivement l'appel qualité de l'air en détruisant entièrement la connexion TLS météo avant d'ouvrir la connexion CAMS. Deux essais automatiques sont conservés."
 }
