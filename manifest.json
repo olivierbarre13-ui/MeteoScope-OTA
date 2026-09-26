@@ -1,7 +1,7 @@
 {
-  "version": "1.9.6",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.6/MeteoScope-1.9.6.bin",
-  "sha256": "8aa331cb228a5417139b47df549d19b60355370e7d3339c17bdafb394f044792",
-  "size": 3941104,
-  "notes": "Corrige le décalage vertical lors de changements successifs de localité. Les écritures NVS sont maintenant masquées par le rétroéclairage puis suivies d'une resynchronisation RGB et de deux redraws complets de l'écran actif."
+  "version": "1.9.7",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.7/MeteoScope-1.9.7.bin",
+  "sha256": "ba3ef94cacd5c44dcd940049851510e588d19ee251fce0beb573987d4ea56bdb",
+  "size": 3940992,
+  "notes": "Corrige le décalage vertical cumulatif après plusieurs mises à jour météo automatiques. Les actualisations réseau ne redémarrent plus le contrôleur RGB : trois rendus LVGL complets rafraîchissent les deux framebuffers avant le rallumage de l'écran."
 }
