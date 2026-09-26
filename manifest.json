@@ -1,7 +1,7 @@
 {
-  "version": "1.9.7",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.7/MeteoScope-1.9.7.bin",
-  "sha256": "ba3ef94cacd5c44dcd940049851510e588d19ee251fce0beb573987d4ea56bdb",
-  "size": 3940992,
-  "notes": "Corrige le décalage vertical cumulatif après plusieurs mises à jour météo automatiques. Les actualisations réseau ne redémarrent plus le contrôleur RGB : trois rendus LVGL complets rafraîchissent les deux framebuffers avant le rallumage de l'écran."
+  "version": "1.9.8",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.8/MeteoScope-1.9.8.bin",
+  "sha256": "6d3901518e62b87677554ee89ae19c1ed1d205a95b7f0789041ec42964e655f7",
+  "size": 3941040,
+  "notes": "Corrige le décalage d'affichage lors du passage de l'écran de démarrage au tableau de bord. Le rétroéclairage reste masqué pendant trois rendus complets afin de reconstruire proprement les deux framebuffers avant l'affichage."
 }
