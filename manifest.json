@@ -1,7 +1,7 @@
 {
-  "version": "1.9.9",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.9/MeteoScope-1.9.9.bin",
-  "sha256": "be798d20702f3cfc7e00ae6a3b0a9c2c4d041bc1c3ef5b2f2952827e9f875c48",
+  "version": "1.9.10",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.10/MeteoScope-1.9.10.bin",
+  "sha256": "704a2abdc17195d5db5aae06eb5cb475335473da83aa4815dfd6044fd0215d7a",
   "size": 3940736,
-  "notes": "Correction globale de la stabilité d'affichage : DMA direct depuis les deux framebuffers PSRAM, suppression du bounce-buffer incompatible avec les écritures Flash/NVS, horloge RGB abaissée à 16 MHz et suppression des redémarrages applicatifs répétés du contrôleur."
+  "notes": "Supprime le scintillement et les rafraîchissements visuellement perceptibles introduits en 1.9.9 : l'horloge native du panneau est rétablie à 30 MHz, tout en conservant le DMA direct double-buffer, l'absence de bounce-buffer et la suppression des redémarrages RGB répétitifs."
 }
