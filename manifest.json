@@ -1,7 +1,7 @@
 {
-  "version": "1.9.12",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.12/MeteoScope-1.9.12.bin",
-  "sha256": "e5db8473fc17e559c2e9990e9d4a3af7b01fb85ac006157d8881f6652599e4a7",
-  "size": 3940896,
-  "notes": "Correction globale de l'instabilité sur tous les écrans : retour au transfert RGB tamponné, bounce-buffer interne agrandi à 40 lignes, horloge ajustée à 28 MHz pour conserver un balayage supérieur à 30 Hz, et écran de démarrage masqué pendant la connexion Wi-Fi."
+  "version": "1.9.13",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.13/MeteoScope-1.9.13.bin",
+  "sha256": "1ca826fedf7b57f0aaa7420e1df57395cdfdde24e4115259c85d067656e266ca",
+  "size": 3941056,
+  "notes": "Restauration de sécurité sur la dernière architecture exploitable : horloge RGB 30 MHz, bounce-buffer 30 lignes, mémoire interne rendue au Wi-Fi/TLS et séquence de démarrage éprouvée. Annule les modifications expérimentales des versions 1.9.9 à 1.9.12."
 }
