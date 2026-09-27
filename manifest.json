@@ -1,7 +1,7 @@
 {
-  "version": "1.9.10",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.10/MeteoScope-1.9.10.bin",
-  "sha256": "704a2abdc17195d5db5aae06eb5cb475335473da83aa4815dfd6044fd0215d7a",
-  "size": 3940736,
-  "notes": "Supprime le scintillement et les rafraîchissements visuellement perceptibles introduits en 1.9.9 : l'horloge native du panneau est rétablie à 30 MHz, tout en conservant le DMA direct double-buffer, l'absence de bounce-buffer et la suppression des redémarrages RGB répétitifs."
+  "version": "1.9.12",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.12/MeteoScope-1.9.12.bin",
+  "sha256": "e5db8473fc17e559c2e9990e9d4a3af7b01fb85ac006157d8881f6652599e4a7",
+  "size": 3940896,
+  "notes": "Correction globale de l'instabilité sur tous les écrans : retour au transfert RGB tamponné, bounce-buffer interne agrandi à 40 lignes, horloge ajustée à 28 MHz pour conserver un balayage supérieur à 30 Hz, et écran de démarrage masqué pendant la connexion Wi-Fi."
 }
