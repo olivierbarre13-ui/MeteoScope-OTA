@@ -1,7 +1,7 @@
 {
-  "version": "1.9.13",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.13/MeteoScope-1.9.13.bin",
-  "sha256": "1ca826fedf7b57f0aaa7420e1df57395cdfdde24e4115259c85d067656e266ca",
-  "size": 3941056,
-  "notes": "Restauration de sécurité sur la dernière architecture exploitable : horloge RGB 30 MHz, bounce-buffer 30 lignes, mémoire interne rendue au Wi-Fi/TLS et séquence de démarrage éprouvée. Annule les modifications expérimentales des versions 1.9.9 à 1.9.12."
+  "version": "1.9.31",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.31/MeteoScope-1.9.31.bin",
+  "sha256": "435beaf33bf85cac187ddfc910d76a9539712dbcd308ababaaff18a94ca51822",
+  "size": 3957024,
+  "notes": "Version expérimentale : heure HH:MM en grands chiffres gris foncé sur fond noir lorsque le bouton de veille est touché. Un toucher restaure la météo. Option Afficher l'heure en veille dans Wi-Fi > Configuration générale, activée par défaut et mémorisée après Enregistrer. Désactiver cette option rétablit la coupure du rétroéclairage. Le rétroéclairage reste allumé en mode horloge."
 }
