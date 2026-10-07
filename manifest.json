@@ -1,7 +1,7 @@
 {
-  "version": "1.9.32",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.32/MeteoScope-1.9.32.bin",
-  "sha256": "11be495947f0704b29b4f644ef1094e48c059d2b7e98e48d67a0ec4d72123e95",
-  "size": 3957008,
-  "notes": "Correctif des transitions de veille : suppression des rendus synchrones exécutés depuis la tâche Arduino lors de l'affichage de l'horloge et du réveil. Le rendu reste dans la tâche LVGL qui reçoit les notifications VSYNC du pilote RGB. Horloge gris foncé et option de configuration conservées. Compilation validée ; validation matérielle du plantage encore nécessaire."
+  "version": "1.9.33",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.33/MeteoScope-1.9.33.bin",
+  "sha256": "1d2d33493ba73e8fd8cc467a26f5b0c3897ece587468ecdbf59315b3701c877e",
+  "size": 4080912,
+  "notes": "Horloge de veille en Montserrat Light : grands chiffres fins, arrondis et de largeur constante, gris foncé #303030 sur fond noir. Police native sans zoom dynamique, remplaçant les segments par un seul label. Option de désactivation conservée dans Configuration générale. Inclut le correctif 1.9.32 : rendu effectué par la tâche LVGL. Compilation et aperçu validés ; stabilité et lisibilité à confirmer sur le LCD. Police Montserrat sous licence SIL OFL."
 }
