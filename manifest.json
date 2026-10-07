@@ -1,7 +1,7 @@
 {
-  "version": "1.9.31",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.31/MeteoScope-1.9.31.bin",
-  "sha256": "435beaf33bf85cac187ddfc910d76a9539712dbcd308ababaaff18a94ca51822",
-  "size": 3957024,
-  "notes": "Version expérimentale : heure HH:MM en grands chiffres gris foncé sur fond noir lorsque le bouton de veille est touché. Un toucher restaure la météo. Option Afficher l'heure en veille dans Wi-Fi > Configuration générale, activée par défaut et mémorisée après Enregistrer. Désactiver cette option rétablit la coupure du rétroéclairage. Le rétroéclairage reste allumé en mode horloge."
+  "version": "1.9.32",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.32/MeteoScope-1.9.32.bin",
+  "sha256": "11be495947f0704b29b4f644ef1094e48c059d2b7e98e48d67a0ec4d72123e95",
+  "size": 3957008,
+  "notes": "Correctif des transitions de veille : suppression des rendus synchrones exécutés depuis la tâche Arduino lors de l'affichage de l'horloge et du réveil. Le rendu reste dans la tâche LVGL qui reçoit les notifications VSYNC du pilote RGB. Horloge gris foncé et option de configuration conservées. Compilation validée ; validation matérielle du plantage encore nécessaire."
 }
