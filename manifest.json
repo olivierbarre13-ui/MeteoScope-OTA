@@ -1,7 +1,7 @@
 {
-  "version": "1.9.33",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.33/MeteoScope-1.9.33.bin",
-  "sha256": "1d2d33493ba73e8fd8cc467a26f5b0c3897ece587468ecdbf59315b3701c877e",
-  "size": 4080912,
-  "notes": "Horloge de veille en Montserrat Light : grands chiffres fins, arrondis et de largeur constante, gris foncé #303030 sur fond noir. Police native sans zoom dynamique, remplaçant les segments par un seul label. Option de désactivation conservée dans Configuration générale. Inclut le correctif 1.9.32 : rendu effectué par la tâche LVGL. Compilation et aperçu validés ; stabilité et lisibilité à confirmer sur le LCD. Police Montserrat sous licence SIL OFL."
+  "version": "1.9.34",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.34/MeteoScope-1.9.34.bin",
+  "sha256": "3358dcc8af9e5f9d20df5cd96a7a09ed7d15eadc008467f37afa380605d97efa",
+  "size": 4072784,
+  "notes": "Horloge de veille avec la police Outfit Light choisie dans le comparatif (option 5). Grands chiffres doux et arrondis, gris foncé #303030 sur fond noir, centrés et de largeur constante. Option de désactivation et correctif de rendu LVGL conservés. Police native sans zoom dynamique, sous licence SIL OFL. Compilation et aperçu vérifiés ; rendu et stabilité à confirmer sur le matériel."
 }
