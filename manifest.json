@@ -1,7 +1,7 @@
 {
-  "version": "1.9.36",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.36/MeteoScope-1.9.36.bin",
-  "sha256": "a133642209b5f00d38b0cf978b21ca74a7e21950593dfc5e3b0a29031f71bf96",
-  "size": 4084352,
-  "notes": "Prévisions 5 jours : jours en Montserrat gras 20 px, températures maximales en gras 28 px et minimales en gras 24 px, centrés dans chaque cellule. Lisibilité des prochaines heures conservée. Compilation vérifiée. Police Montserrat sous licence SIL OFL."
+  "version": "1.9.37",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.37/MeteoScope-1.9.37.bin",
+  "sha256": "41a48f9f1ad568134da5e6e4fc2e5fdba53114d127ed8122ce11644780c37ce6",
+  "size": 4084960,
+  "notes": "Encarts du bas : valeurs vent, humidité, pluie et UV en Montserrat gras 28 px, centrées à droite des pictogrammes avec les unités en dessous. Horaires du soleil en gras 24 px et centrés. Améliorations des prévisions horaires et à cinq jours conservées. Compilation vérifiée. Police Montserrat sous licence SIL OFL."
 }
