@@ -1,7 +1,7 @@
 {
-  "version": "1.9.38",
-  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.38/MeteoScope-1.9.38.bin",
-  "sha256": "02f8eff05fc2bf4a2541d5eb7ea94a3b99c7ae653a5245c9b76b4b76a92e166a",
-  "size": 4085200,
-  "notes": "Encarts du bas : unités à côté des valeurs sur une même ligne, alignées à leur base ; ensemble centré à droite des pictogrammes. Valeurs en gras, taille adaptée pour la pluie. Horaires du soleil et améliorations précédentes conservés. Compilation vérifiée. Police Montserrat sous licence SIL OFL."
+  "version": "1.9.39",
+  "url": "https://github.com/olivierbarre13-ui/MeteoScope-OTA/releases/download/v1.9.39/MeteoScope-1.9.39.bin",
+  "sha256": "1ff3fb5c3a072f3691905095318d3ec1475ccfa85111bb1abeb12887e1a5a773",
+  "size": 4085424,
+  "notes": "Accès à la configuration générale : déclenchement dès l’appui et prise en charge par le secours tactile Wi-Fi. Protection contre les doubles ouvertures, les retours en cours et les fenêtres Wi-Fi/OTA superposées. Compilation vérifiée ; validation sur appareil après plusieurs jours de fonctionnement à effectuer. La cause exacte du blocage signalé reste à confirmer. Améliorations d’affichage précédentes conservées. Police Montserrat sous licence SIL OFL."
 }
